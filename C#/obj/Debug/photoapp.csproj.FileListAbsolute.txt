@@ -1,0 +1,44 @@
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\images\market 031.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\images\market 032.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\images\market 034.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\images\market 039.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\images\market 040.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\SDKSample.exe
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\bin\Debug\SDKSample.pdb
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\PhotoView.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\MainWindow.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\PhotoView.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\app.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_Content.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_MarkupCompile.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample_MarkupCompile.lref
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\app.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\MainWindow.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.g.resources
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\photoapp.csproj.CoreCompileInputs.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.exe
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\SDKSample.pdb
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo\C#\obj\Debug\photoapp.csprojAssemblyReference.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\images\market 031.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\images\market 032.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\images\market 034.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\images\market 039.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\images\market 040.jpg
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\SDKSample.exe
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\bin\Debug\SDKSample.pdb
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\photoapp.csprojAssemblyReference.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\PhotoView.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\MainWindow.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\PhotoView.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\app.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample_Content.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample_MarkupCompile.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample_MarkupCompile.lref
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\app.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\MainWindow.baml
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample.g.resources
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\photoapp.csproj.CoreCompileInputs.cache
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample.exe
+C:\Users\Keren\Downloads\WPF Photo Viewer Demo_backup2 (2)\WPF Photo Viewer Demo_backup2\C#\obj\Debug\SDKSample.pdb
